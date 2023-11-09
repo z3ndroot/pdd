@@ -1,8 +1,10 @@
 __all__ = (
     'Base',
     'Driver',
-    'Session'
+    'Session',
+    'Car'
 )
 
 from .base import Base, Session
 from .driver import Driver
+from .car import Car
