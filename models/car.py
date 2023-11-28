@@ -2,7 +2,6 @@ from . import Base
 from sqlalchemy import (
     Column,
     String,
-    Date,
     Integer,
     ForeignKey)
 
@@ -18,6 +17,8 @@ class Car(Base):
     driver_id = Column(Integer, ForeignKey('pdd_drivers.id'), nullable=False, unique=False)
 
     driver = relationship('Driver', back_populates='cars')
+    fine = relationship('Fine', back_populates='cars')
+
     def __str__(self):
         return (
             f"{self.__class__.__name__}("
