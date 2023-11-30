@@ -1,0 +1,74 @@
+{
+  "drivers": [
+    {
+      "id": 1,
+      "driver_name": "Алексеев Алексей Алексеевич",
+      "driver_license_number": "A1234567",
+      "driver_address": "г. Москва, ул. Ленина, дом 12 кв. 34",
+      "expiration_date": "2026-01-01"
+    },
+    {
+      "id": 2,
+      "driver_name": "Борисов Борис Борисович",
+      "driver_license_number": "B2345678",
+      "driver_address": "г. Санкт-Петербург, ул. Невский проспект, дом 56, кв. 78",
+      "expiration_date": "2028-02-01"
+    },
+    {
+      "id": 3,
+      "driver_name": "Владимиров Владимир Владимирович",
+      "driver_license_number": "C3456789",
+      "driver_address": "г. Новосибирск, ул. Красный проспект, дом 34, кв. 56",
+      "expiration_date": "2029-03-01"
+    },
+    {
+      "id": 4,
+      "driver_name": "Григорьев Григорий Григорьевич",
+      "driver_license_number": "D4567890",
+      "driver_address": "г. Екатеринбург, ул. Лермонтова, дом 45, кв. 78",
+      "expiration_date": "2026-04-01"
+    },
+    {
+      "id": 5,
+      "driver_name": "Дмитриев Дмитрий Дмитриевич",
+      "driver_license_number": "E5678901",
+      "driver_address": "г. Казань, ул. Петрова, дом 23, кв. 45",
+      "expiration_date": "2025-05-01"
+    },
+    {
+      "id": 6,
+      "driver_name": "Евгеньев Евгений Евгеньевич",
+      "driver_license_number": "F6789012",
+      "driver_address": "г. Ростов-на-Дону, ул. Советская, дом 56, кв. 78",
+      "expiration_date": "2027-06-01"
+    },
+    {
+      "id": 7,
+      "driver_name": "Захаров Захар Захарович",
+      "driver_license_number": "G7890123",
+      "driver_address": "г. Уфа, ул. Победы, дом 67, кв. 89",
+      "expiration_date": "2025-07-01"
+    },
+    {
+      "id": 8,
+      "driver_name": "Игорев Игорь Игоревич",
+      "driver_license_number": "H8901234",
+      "driver_address": "г. Волгоград, ул. Строителей, дом 12, кв. 34",
+      "expiration_date": "2029-08-01"
+    },
+    {
+      "id": 9,
+      "driver_name": "Константинов Константин Константинович",
+      "driver_license_number": "I9012345",
+      "driver_address": "г. Саратов, ул. Пушкина, дом 78, кв. 90",
+      "expiration_date": "2024-09-01"
+    },
+    {
+      "id": 10,
+      "driver_name": "Леонидов Леонид Леонидович",
+      "driver_license_number": "J0123456",
+      "driver_address": "г. Красноярск, ул. Ленина, дом 3, кв. 56",
+      "expiration_date": "2026-10-01"
+    }
+  ]
+}

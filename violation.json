@@ -1,0 +1,240 @@
+
+{
+  "violations": [
+    {
+      "id": 1,
+      "violation_type": "Неправильная парковка",
+      "violation_description": "Припарковано на газоне",
+      "violation_city": "Краснодар",
+      "violation_date": "2021-01-02",
+      "violation_area": "Центральный округ",
+      "fine_id": 1
+    },
+    {
+      "id": 2,
+      "violation_type": "Неправильная парковка",
+      "violation_description": "Припарковано на газоне",
+      "violation_city": "Краснодар",
+      "violation_date": "2021-01-02",
+      "violation_area": "Карасунский округ",
+      "fine_id": 1
+    },
+    {
+      "id": 3,
+      "violation_type": "Неправильная парковка",
+      "violation_description": "Припарковано на газоне",
+      "violation_city": "Краснодар",
+      "violation_date": "2021-01-02",
+      "violation_area": "Карасунский округ",
+      "fine_id": 1
+    },
+    {
+      "id": 4,
+      "violation_type": "Превышение скорости",
+      "violation_description": "Превышена скорость на 10км.ч",
+      "violation_city": "Краснодар",
+      "violation_date": "2021-02-02",
+      "violation_area": "Центральный округ",
+      "fine_id": 2
+    },
+    {
+      "id": 5,
+      "violation_type": "Превышение скорости",
+      "violation_description": "Превышена скорость на шоссе",
+      "violation_city": "Краснодар",
+      "violation_date": "2021-02-02",
+      "violation_area": "Карасунский округ",
+      "fine_id": 2
+    },
+    {
+      "id": 6,
+      "violation_type": "Нарушение правил парковки",
+      "violation_description": "Парковка на тротуаре",
+      "violation_city": "Краснодар",
+      "violation_date": "2024-03-02",
+      "violation_area": "Центральный округ",
+      "fine_id": 3
+    },
+    {
+      "id": 7,
+      "violation_type": "Нарушение ПДД",
+      "violation_description": "Неправильный объезд",
+      "violation_city": "Краснодар",
+      "violation_date": "2023-04-02",
+      "violation_area": "Центральный округ",
+      "fine_id": 4
+    },
+    {
+      "id": 8,
+      "violation_type": "Нарушение ПДД",
+      "violation_description": "Несоблюдение дистанции",
+      "violation_city": "Краснодар",
+      "violation_date": "2021-05-02",
+      "violation_area": "Центральный округ",
+      "fine_id": 5
+    },
+    {
+      "id": 9,
+      "violation_type": "Нарушение ПДД",
+      "violation_description": "Несоблюдение дистанции",
+      "violation_city": "Краснодар",
+      "violation_date": "2021-05-02",
+      "violation_area": "Центральный округ",
+      "fine_id": 5
+    },
+    {
+      "id": 10,
+      "violation_type": "Нарушение ПДД",
+      "violation_description": "Несоблюдение дистанции",
+      "violation_city": "Краснодар",
+      "violation_date": "2021-05-02",
+      "violation_area": "Карасунский округ",
+      "fine_id": 5
+    },
+    {
+      "id": 11,
+      "violation_type": "Нарушение правил",
+      "violation_description": "Проезд на красный свет",
+      "violation_city": "Краснодар",
+      "violation_date": "2022-06-02",
+      "violation_area": "Карасунский округ",
+      "fine_id": 6
+    },
+    {
+      "id": 12,
+      "violation_type": "Нарушение правил",
+      "violation_description": "Неправильный разворот",
+      "violation_city": "Краснодар",
+      "violation_date": "2023-07-02",
+      "violation_area": "Карасунский округ",
+      "fine_id": 7
+    },
+    {
+      "id": 13,
+      "violation_type": "Нарушение правил",
+      "violation_description": "Неправильный разворот",
+      "violation_city": "Краснодар",
+      "violation_date": "2023-07-02",
+      "violation_area": "Прикубанский округ",
+      "fine_id": 7
+    },
+        {
+      "id": 14,
+      "violation_type": "Нарушение правил",
+      "violation_description": "Неправильный поворот",
+      "violation_city": "Краснодар",
+      "violation_date": "2022-08-06",
+      "violation_area": "Центральный округ",
+      "fine_id": 8
+    },
+        {
+      "id": 15,
+      "violation_type": "Превышение максимальной скорости",
+      "violation_description": "Превышение скорости на 20км ",
+      "violation_city": "Краснодар",
+      "violation_date": "2021-09-05",
+      "violation_area": "Карасунский округ",
+      "fine_id": 9
+    },
+        {
+      "id": 16,
+      "violation_type": "Парковка в неположенном месте",
+      "violation_description": "Парковка на газоне",
+      "violation_city": "Краснодар",
+      "violation_date": "2022-10-04",
+      "violation_area": "Прикубанский округ",
+      "fine_id": 10
+    },
+        {
+      "id": 17,
+      "violation_type": "Превышение максимальной скорости",
+      "violation_description": "Превышение скорости на 20км",
+      "violation_city": "Краснодар",
+      "violation_date": "2021-11-03",
+      "violation_area": "Карасунский округ",
+      "fine_id": 11
+    },
+        {
+      "id": 18,
+      "violation_type": "Превышение максимальной скорости",
+      "violation_description": "Превышение скорости на 20км",
+      "violation_city": "Краснодар",
+      "violation_date": "2021-11-03",
+      "violation_area": "Центральный округ",
+      "fine_id": 11
+    },
+        {
+      "id": 19,
+      "violation_type": "Парковка в неположенном месте",
+      "violation_description": "Парковка на тротуаре",
+      "violation_city": "Краснодар",
+      "violation_date": "2021-12-02",
+      "violation_area": "Прикубанский округ",
+      "fine_id": 12
+    },
+        {
+      "id": 20,
+      "violation_type": "Парковка в неположенном месте",
+      "violation_description": "Парковка на тротуаре",
+      "violation_city": "Краснодар",
+      "violation_date": "2021-12-02",
+      "violation_area": "Прикубанский округ",
+      "fine_id": 12
+    },
+
+        {
+      "id": 21,
+      "violation_type": "Нарушение ПДД",
+      "violation_description": "Неправильный объезд",
+      "violation_city": "Краснодар",
+      "violation_date": "2021-06-02",
+      "violation_area": "Центральный округ",
+      "fine_id": 13
+    },
+        {
+      "id": 22,
+      "violation_type": "Нарушение ПДД",
+      "violation_description": "Неправильный объезд",
+      "violation_city": "Краснодар",
+      "violation_date": "2021-06-02",
+      "violation_area": "Центральный округ",
+      "fine_id": 13
+    },
+        {
+      "id": 23,
+      "violation_type": "Нарушение ПДД",
+      "violation_description": "Неправильный объезд",
+      "violation_city": "Краснодар",
+      "violation_date": "2021-06-02",
+      "violation_area": "Прикубанский округ",
+      "fine_id": 13
+    },
+        {
+      "id": 24,
+      "violation_type": "Нарушение ПДД",
+      "violation_description": "Несоблюдение дистанции",
+      "violation_city": "Краснодар",
+      "violation_date": "2021-04-02",
+      "violation_area": "Карасунский округ",
+      "fine_id": 14
+    },
+        {
+      "id": 25,
+      "violation_type": "Нарушение ПДД",
+      "violation_description": "Несоблюдение дистанции",
+      "violation_city": "Краснодар",
+      "violation_date": "2021-04-02",
+      "violation_area": "Прикубанский округ",
+      "fine_id": 14
+    },
+        {
+      "id": 26,
+      "violation_type": "Превышение максимальной скорости",
+      "violation_description": "Превышение скорости на 30км",
+      "violation_city": "Краснодар",
+      "violation_date": "2023-07-03",
+      "violation_area": "Карасунский округ",
+      "fine_id": 15
+    }
+  ]
+}

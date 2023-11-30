@@ -1,0 +1,124 @@
+{
+    "fine":  [
+        {
+        "id": 1,
+        "fine_type": "Парковка на газоне",
+        "fine_amount": 3000,
+        "fine_date": "01.02.2021",
+        "fine_count": 3,
+        "car_id": 13
+        },
+        {
+        "id": 2,
+        "fine_type": "Превышение скорости",
+        "fine_amount": 2000,
+        "fine_date": "02.02.2021",
+        "fine_count": 2,
+        "car_id": 12
+        },
+        {
+        "id": 3,
+        "fine_type": "Парковка на тротуаре",
+        "fine_amount": 5000,
+        "fine_date": "03.02.2024",
+        "fine_count": 1,
+        "car_id": 11
+        },
+        {
+        "id": 4,
+        "fine_type": "Неправильный объезд",
+        "fine_amount": 2000,
+        "fine_date": "04.02.2023",
+        "fine_count": 1,
+        "car_id": 10
+        },
+        {
+        "id": 5,
+        "fine_type": "Несоблюдение дистанции",
+        "fine_amount": 2500,
+        "fine_date": "05.02.2021",
+        "fine_count": 3,
+        "car_id": 9
+        },
+        {
+        "id": 6,
+        "fine_type": "Проезд на красный свет",
+        "fine_amount": 4000,
+        "fine_date": "06.02.2022",
+        "fine_count": 1,
+        "car_id": 8
+        },
+        {
+        "id": 7,
+        "fine_type": "Неправильный разворот",
+        "fine_amount": 1500 ,
+        "fine_date": "07.02.2023",
+        "fine_count": 2,
+        "car_id": 7
+        },
+        {
+        "id": 8,
+        "fine_type": "Неправильный поворот",
+        "fine_amount": 500 ,
+        "fine_date": "08.06.2022",
+        "fine_count": 1,
+        "car_id": 6
+        },
+        {
+        "id": 9,
+        "fine_type": "Превышение скорости",
+        "fine_amount": 3000 ,
+        "fine_date": "09.05.2021",
+        "fine_count": 1,
+        "car_id": 5
+        },
+        {
+        "id": 10,
+        "fine_type": "Парковка на газоне",
+        "fine_amount": 1000 ,
+        "fine_date": "10.04.2022",
+        "fine_count": 1,
+        "car_id": 4
+        },
+        {
+        "id": 11,
+        "fine_type": "Превышение скорости",
+        "fine_amount": 3000 ,
+        "fine_date": "11.03.2021",
+        "fine_count": 2,
+        "car_id": 1
+        },
+        {
+        "id": 12,
+        "fine_type": "Парковка на тротуаре",
+        "fine_amount": 5000,
+        "fine_date": "12.02.2021",
+        "fine_count": 2,
+        "car_id": 2
+        },
+        {
+        "id": 13,
+        "fine_type": "Неправильный объезд",
+        "fine_amount": 2000,
+        "fine_date": "06.02.2021",
+        "fine_count": 3,
+        "car_id": 3
+        },
+        {
+        "id": 14,
+        "fine_type": "Несоблюдение дистанции",
+        "fine_amount": 2500,
+        "fine_date": "04.02.2021",
+        "fine_count": 2,
+        "car_id": 15
+        },
+        {
+        "id": 15,
+        "fine_type": "Превышение скорости",
+        "fine_amount": 3500,
+        "fine_date": "07.03.2021",
+        "fine_count": 1,
+        "car_id": 1
+        }
+    ]
+}
