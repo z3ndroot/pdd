@@ -3,10 +3,12 @@ __all__ = (
     'Driver',
     'Session',
     'Car',
-    'Fine'
+    'Fine',
+    'Violation'
 )
 
 from .base import Base, Session
 from .driver import Driver
 from .car import Car
 from .fine import Fine
+from .violation import Violation
