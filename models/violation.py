@@ -24,9 +24,10 @@ class Violation(Base):
         return (
             f"{self.__class__.__name__}("
             f"id={self.id}, "
-            f"fine_type={self.fine_type}, "
-            f"fine_amount={self.fine_amount}, "
-            f"fine_date={self.fine_date}, "
-            f"fine_count={self.fine_count}"
+            f"violation_type={self.violation_type}, "
+            f"fine_amount={self.violation_description}, "
+            f"fine_date={self.violation_city}, "
+            f"fine_count={self.violation_date}, "
+            f"fine_count={self.violation_area}"
             f")"
         )
