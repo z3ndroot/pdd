@@ -17,6 +17,7 @@ class Fine(Base):
     car_id = Column(Integer, ForeignKey('pdd_cars.id'), nullable=False, unique=False)
 
     cars = relationship('Car', back_populates='fine')
+    violation = relationship('Violation', back_populates='fine')
 
     def __str__(self):
         return (
